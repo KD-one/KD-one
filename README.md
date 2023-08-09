@@ -1,12 +1,3 @@
-<!-- "Hero" Header -->
-<div align="center">
-  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
-  <br />
-  <br />
-  <img height="50" alt="我的名字叫王克栋，来自中国。" src="gree.svg" />
-  <br />
-  <br />
-
 <!-- Your title -->
 ## 你好，我的名字叫王克栋，是一名开发人员 🚀 来自中国。
 

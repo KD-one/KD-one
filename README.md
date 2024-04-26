@@ -18,7 +18,7 @@ You can use the website to generate badges: https://shields.io/
 - 👯 我想要寻求一份副业，目前的想法是想拍视频，但是不知道拍什么;
 - 🤔 学习的过程中发现坑真的很多。。。;
 - 💬 有什么问题可以问我，只要我会的，我很愿意帮助;
-- ⚡️ 目前在新能源科技公司工作，负责labview开发，也会使用golang、python等编程语言进行开发;
+- ⚡️ 目前从事python开发，也会使用golang、JavaScript等编程语言进行开发;
 - 📫 如何联系我: 1762495803@qq.com;
 
 **语言和工具:** 
